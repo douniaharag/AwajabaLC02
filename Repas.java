@@ -12,3 +12,11 @@ public Repas(int numero,  LocalDate date) {
         this.dateInscription = dateInscription;
       
     }
+
+ public int getNumero(){
+        return this.numero ;
+    }
+    
+    public void setNumero(int numero){
+        this.numero = numero ;
+    }
