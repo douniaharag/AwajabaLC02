@@ -12,4 +12,3 @@ public Repas(int numero,  LocalDate date) {
         this.dateInscription = dateInscription;
       
     }
-     
