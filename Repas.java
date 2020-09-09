@@ -20,3 +20,13 @@ public Repas(int numero,  LocalDate date) {
     public void setNumero(int numero){
         this.numero = numero ;
     }
+    
+public int getDate(){
+        return this.Date ;
+    }
+    
+    public void setDate(int date){
+        this.date = date ;
+    }    
+
+}
